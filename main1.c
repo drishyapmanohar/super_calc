@@ -18,7 +18,6 @@ printf("Enter a positive integer: ");
     }
 
     printf("Sum = %d",sum);
-
     return 0;
 int a,b,sub;
 
