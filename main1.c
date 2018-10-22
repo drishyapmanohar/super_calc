@@ -3,7 +3,7 @@
 void main()
 {
 printf("There is a super calc at work");
-printf("hi durga");
+printf("hi saidurga");
 printf("what's up");
 printf("do u want to do calculations");
 printf("you want to add or subtract");
